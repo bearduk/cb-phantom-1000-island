@@ -6,8 +6,8 @@ var sailing = function (num) {
 	console.log('Land ahoy!');// body...
 
 page.viewportSize = {
-  width: 1024,
-  height: 512
+  width: 1920,
+  height: 920
 };
 
 
