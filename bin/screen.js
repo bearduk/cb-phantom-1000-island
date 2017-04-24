@@ -4,6 +4,13 @@ var islandCount = 3;
 
 var sailing = function (num) {
 	console.log('Land ahoy!');// body...
+
+page.viewportSize = {
+  width: 1024,
+  height: 512
+};
+
+
 	page.open('https://pnewton84.github.io/island.html', function() {
   		// page.render('island' + num + '.png');
   		page.render('island-' + num + '.png');
