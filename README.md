@@ -4,4 +4,4 @@ PhantomJS ([phantomjs.org](http://phantomjs.org)) is a headless WebKit scriptabl
 
 See screen.js under ./bin for the Island Scraper on github.
 
-Create islands folder, `cd` and the run `../bin/phantomjs ../bin/screen.js`
+Create islands folder, `cd` and then run `../bin/phantomjs ../bin/screen.js`
